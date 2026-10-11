@@ -1,0 +1,121 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VLdXNpZGE/c21hcG9ja2VLdXNpZGE/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Kusida =====
+[1]Kusida      |09:10:20 | 11-10-2026| login OK @kusidanatania | score=910 rank=6463
+[1]Kusida      |09:10:20 | 11-10-2026| serverTime=2026-10-11T09:10:20.000Z local=2026-10-11T09:10:20.175Z
+--> [1]Kusida menjalankan: Claim Daily
+[1]Kusida      |09:10:22 | 11-10-2026| daily: sudah klaim (already=true) score=910
+--> [1]Kusida menjalankan: Auto All Tasks (3 pending)
+[1]Kusida      |09:10:24 | 11-10-2026| [1/3] 0d3126bf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209442603903710
+[1]Kusida      |09:10:24 | 11-10-2026| delay 10s...
+[1]Kusida      |09:10:37 | 11-10-2026| [2/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209744510920249
+[1]Kusida      |09:10:37 | 11-10-2026| delay 10s...
+[1]Kusida      |09:10:52 | 11-10-2026| [3/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209721878342039
+[1]Kusida      |09:10:52 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kusida      |09:10:56 | 11-10-2026| [1/1] 0d3126bf (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/kusidanatania/status/2109209692712820902
+--> [1]Kusida menjalankan: Watch Anime
+[1]Kusida      |09:10:59 | 11-10-2026| watch: 4 video belum completed: oshi-clash-launch-trailer,oshi-theme-mv,oshi-first-journey,ep2
+[1]Kusida      |09:10:59 | 11-10-2026| watch [1/4] farming oshi-clash-launch-trailer...
+[1]Kusida      |09:11:03 | 11-10-2026| watch oshi-clash-launch-trailer: mulai dari 0 (record 45.9s diabaikan)
+[1]Kusida      |09:11:04 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
+[1]Kusida      |09:11:16 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
+[1]Kusida      |09:11:22 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
+[1]Kusida      |09:11:30 | 11-10-2026| watch oshi-clash-launch-trailer: 85% (51.58/60.00s)
+[1]Kusida      |09:11:37 | 11-10-2026| watch oshi-clash-launch-trailer: 87% (52.22/60.00s)
+[1]Kusida      |09:11:43 | 11-10-2026| watch oshi-clash-launch-trailer: 88% (53.30/60.00s)
+[1]Kusida      |09:11:49 | 11-10-2026| watch oshi-clash-launch-trailer: 88% (53.30/60.00s)
+[1]Kusida      |09:11:56 | 11-10-2026| watch oshi-clash-launch-trailer: 92% (55.39/60.00s)
+[1]Kusida      |09:11:56 | 11-10-2026| watch oshi-clash-launch-trailer: COMPLETED (55.39/60.00s)
+[1]Kusida      |09:12:01 | 11-10-2026| watch [2/4] farming oshi-theme-mv...
+[1]Kusida      |09:12:01 | 11-10-2026| watch oshi-theme-mv: mulai dari 0 (record 26.6s diabaikan)
+[1]Kusida      |09:12:02 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
+[1]Kusida      |09:12:09 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
+[1]Kusida      |09:12:16 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
+[1]Kusida      |09:12:22 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
+[1]Kusida      |09:12:29 | 11-10-2026| watch oshi-theme-mv: 27% (28.89/106.00s)
+[1]Kusida      |09:12:35 | 11-10-2026| watch oshi-theme-mv: 27% (29.37/106.00s)
+[1]Kusida      |09:12:45 | 11-10-2026| watch oshi-theme-mv: 33% (35.03/106.00s)
+[1]Kusida      |09:12:51 | 11-10-2026| watch oshi-theme-mv: 38% (41.32/106.00s)
+[1]Kusida      |09:13:00 | 11-10-2026| watch oshi-theme-mv: 44% (46.94/106.00s)
+[1]Kusida      |09:13:07 | 11-10-2026| watch oshi-theme-mv: 51% (54.77/106.00s)
+[1]Kusida      |09:13:13 | 11-10-2026| watch oshi-theme-mv: 57% (61.01/106.00s)
+[1]Kusida      |09:13:20 | 11-10-2026| watch oshi-theme-mv: 62% (66.64/106.00s)
+[1]Kusida      |09:13:26 | 11-10-2026| watch oshi-theme-mv: 68% (72.26/106.00s)
+[1]Kusida      |09:13:32 | 11-10-2026| watch oshi-theme-mv: 73% (77.90/106.00s)
+[1]Kusida      |09:13:39 | 11-10-2026| watch oshi-theme-mv: 79% (83.85/106.00s)
+[1]Kusida      |09:13:46 | 11-10-2026| watch oshi-theme-mv: 84% (89.47/106.00s)
+[1]Kusida      |09:13:56 | 11-10-2026| watch oshi-theme-mv: 90% (95.66/106.00s)
+[1]Kusida      |09:13:56 | 11-10-2026| watch oshi-theme-mv: COMPLETED (95.66/106.00s)
+[1]Kusida      |09:14:01 | 11-10-2026| watch [3/4] farming oshi-first-journey...
+[1]Kusida      |09:14:05 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Kusida      |09:14:13 | 11-10-2026| watch oshi-first-journey: 6% (5.46/87.00s)
+[1]Kusida      |09:14:19 | 11-10-2026| watch oshi-first-journey: 13% (11.72/87.00s)
+[1]Kusida      |09:14:26 | 11-10-2026| watch oshi-first-journey: 19% (17.34/87.00s)
+[1]Kusida      |09:14:32 | 11-10-2026| watch oshi-first-journey: 26% (23.08/87.00s)
+[1]Kusida      |09:14:39 | 11-10-2026| watch oshi-first-journey: 33% (28.73/87.00s)
+[1]Kusida      |09:14:45 | 11-10-2026| watch oshi-first-journey: 40% (35.03/87.00s)
+[1]Kusida      |09:14:52 | 11-10-2026| watch oshi-first-journey: 46% (40.65/87.00s)
+[1]Kusida      |09:15:00 | 11-10-2026| watch oshi-first-journey: 53% (46.90/87.00s)
+[1]Kusida      |09:15:06 | 11-10-2026| watch oshi-first-journey: 61% (53.33/87.00s)
+[1]Kusida      |09:15:14 | 11-10-2026| watch oshi-first-journey: 68% (59.26/87.00s)
+[1]Kusida      |09:15:24 | 11-10-2026| watch oshi-first-journey: 76% (66.20/87.00s)
+[1]Kusida      |09:15:34 | 11-10-2026| watch oshi-first-journey: 86% (75.13/87.00s)
+[1]Kusida      |09:15:41 | 11-10-2026| watch oshi-first-journey: 95% (82.79/87.00s)
+[1]Kusida      |09:15:41 | 11-10-2026| watch oshi-first-journey: COMPLETED (82.79/87.00s)
+[1]Kusida      |09:15:46 | 11-10-2026| watch [4/4] farming ep2...
+[1]Kusida      |09:15:50 | 11-10-2026| watch ep2: 0% (0.00/406.00s)
+[1]Kusida      |09:15:56 | 11-10-2026| watch ep2: 1% (5.93/406.00s)
+[1]Kusida      |09:16:06 | 11-10-2026| watch ep2: 2% (11.98/406.00s)
+[1]Kusida      |09:16:12 | 11-10-2026| watch ep2: 4% (19.47/406.00s)
+[1]Kusida      |09:16:19 | 11-10-2026| watch ep2: 6% (25.08/406.00s)
+[1]Kusida      |09:16:27 | 11-10-2026| watch ep2: 7% (31.52/406.00s)
+[1]Kusida      |09:16:34 | 11-10-2026| watch ep2: 9% (37.92/406.00s)
+[1]Kusida      |09:16:40 | 11-10-2026| watch ep2: 10% (44.21/406.00s)
+[1]Kusida      |09:16:48 | 11-10-2026| watch ep2: 12% (50.28/406.00s)
+[1]Kusida      |09:16:54 | 11-10-2026| watch ep2: 13% (56.60/406.00s)
+[1]Kusida      |09:17:02 | 11-10-2026| watch ep2: 15% (62.30/406.00s)
+[1]Kusida      |09:17:08 | 11-10-2026| watch ep2: 16% (68.53/406.00s)
+[1]Kusida      |09:17:16 | 11-10-2026| watch ep2: heartbeat GAGAL http=503
+--> [1]Kusida menjalankan: Read Article
+[1]Kusida      |09:17:16 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Quiz Anime
+[1]Kusida      |09:17:16 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Music Missions (realtime, bisa lama!)
+[1]Kusida      |09:17:16 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |09:17:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Claim Missions
+[1]Kusida      |09:17:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Check Eligibility
+
+--- eligibility [1]Kusida ---
+  @kusidanatania | score=910 rank=6463
+  tasks    [###################-] 72/75
+  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+--> [1]Kusida menjalankan: Read Manga
+[1]Kusida      |09:17:16 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Get Gift
+[1]Kusida      |09:17:16 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Setup Profile
+[1]Kusida      |09:17:16 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+--> [1]Kusida menjalankan: Bind Wallet
+[1]Kusida      |09:17:16 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+
+== RINGKASAN ==
+- Kusida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
