@@ -12,110 +12,456 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kusida =====
-[1]Kusida      |09:10:20 | 11-10-2026| login OK @kusidanatania | score=910 rank=6463
-[1]Kusida      |09:10:20 | 11-10-2026| serverTime=2026-10-11T09:10:20.000Z local=2026-10-11T09:10:20.175Z
+[1]Kusida      |12:46:27 | 12-10-2026| login OK @kusidanatania | score=940 rank=6475
+[1]Kusida      |12:46:27 | 12-10-2026| serverTime=2026-10-12T12:46:27.000Z local=2026-10-12T12:46:27.677Z
 --> [1]Kusida menjalankan: Claim Daily
-[1]Kusida      |09:10:22 | 11-10-2026| daily: sudah klaim (already=true) score=910
---> [1]Kusida menjalankan: Auto All Tasks (3 pending)
-[1]Kusida      |09:10:24 | 11-10-2026| [1/3] 0d3126bf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209442603903710
-[1]Kusida      |09:10:24 | 11-10-2026| delay 10s...
-[1]Kusida      |09:10:37 | 11-10-2026| [2/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209744510920249
-[1]Kusida      |09:10:37 | 11-10-2026| delay 10s...
-[1]Kusida      |09:10:52 | 11-10-2026| [3/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109209721878342039
-[1]Kusida      |09:10:52 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kusida      |09:10:56 | 11-10-2026| [1/1] 0d3126bf (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/kusidanatania/status/2109209692712820902
+[1]Kusida      |12:46:28 | 12-10-2026| daily: OK +10 poin score=950
+--> [1]Kusida menjalankan: Auto All Tasks (9 pending)
+[1]Kusida      |12:46:30 | 12-10-2026| [1/9] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626133531862042
+[1]Kusida      |12:46:30 | 12-10-2026| delay 10s...
+[1]Kusida      |12:46:41 | 12-10-2026| [2/9] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626488834133918
+[1]Kusida      |12:46:41 | 12-10-2026| delay 10s...
+[1]Kusida      |12:46:53 | 12-10-2026| [3/9] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626583728621978
+[1]Kusida      |12:46:53 | 12-10-2026| delay 10s...
+[1]Kusida      |12:47:05 | 12-10-2026| [4/9] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626648329459741
+[1]Kusida      |12:47:05 | 12-10-2026| delay 10s...
+[1]Kusida      |12:47:16 | 12-10-2026| [5/9] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Kusida      |12:47:16 | 12-10-2026| delay 10s...
+[1]Kusida      |12:47:28 | 12-10-2026| [6/9] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626692046628740
+[1]Kusida      |12:47:28 | 12-10-2026| delay 10s...
+[1]Kusida      |12:47:40 | 12-10-2026| [7/9] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626668637029052
+[1]Kusida      |12:47:40 | 12-10-2026| delay 10s...
+[1]Kusida      |12:47:52 | 12-10-2026| [8/9] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/kusidanatania/status/2109626593690057143
+[1]Kusida      |12:47:52 | 12-10-2026| delay 10s...
+[1]Kusida      |12:48:03 | 12-10-2026| [9/9] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Kusida      |12:48:03 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kusida      |12:48:05 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/kusidanatania/status/2109626775332455107
 --> [1]Kusida menjalankan: Watch Anime
-[1]Kusida      |09:10:59 | 11-10-2026| watch: 4 video belum completed: oshi-clash-launch-trailer,oshi-theme-mv,oshi-first-journey,ep2
-[1]Kusida      |09:10:59 | 11-10-2026| watch [1/4] farming oshi-clash-launch-trailer...
-[1]Kusida      |09:11:03 | 11-10-2026| watch oshi-clash-launch-trailer: mulai dari 0 (record 45.9s diabaikan)
-[1]Kusida      |09:11:04 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
-[1]Kusida      |09:11:16 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
-[1]Kusida      |09:11:22 | 11-10-2026| watch oshi-clash-launch-trailer: 76% (45.88/60.00s)
-[1]Kusida      |09:11:30 | 11-10-2026| watch oshi-clash-launch-trailer: 85% (51.58/60.00s)
-[1]Kusida      |09:11:37 | 11-10-2026| watch oshi-clash-launch-trailer: 87% (52.22/60.00s)
-[1]Kusida      |09:11:43 | 11-10-2026| watch oshi-clash-launch-trailer: 88% (53.30/60.00s)
-[1]Kusida      |09:11:49 | 11-10-2026| watch oshi-clash-launch-trailer: 88% (53.30/60.00s)
-[1]Kusida      |09:11:56 | 11-10-2026| watch oshi-clash-launch-trailer: 92% (55.39/60.00s)
-[1]Kusida      |09:11:56 | 11-10-2026| watch oshi-clash-launch-trailer: COMPLETED (55.39/60.00s)
-[1]Kusida      |09:12:01 | 11-10-2026| watch [2/4] farming oshi-theme-mv...
-[1]Kusida      |09:12:01 | 11-10-2026| watch oshi-theme-mv: mulai dari 0 (record 26.6s diabaikan)
-[1]Kusida      |09:12:02 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
-[1]Kusida      |09:12:09 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
-[1]Kusida      |09:12:16 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
-[1]Kusida      |09:12:22 | 11-10-2026| watch oshi-theme-mv: 25% (26.60/106.00s)
-[1]Kusida      |09:12:29 | 11-10-2026| watch oshi-theme-mv: 27% (28.89/106.00s)
-[1]Kusida      |09:12:35 | 11-10-2026| watch oshi-theme-mv: 27% (29.37/106.00s)
-[1]Kusida      |09:12:45 | 11-10-2026| watch oshi-theme-mv: 33% (35.03/106.00s)
-[1]Kusida      |09:12:51 | 11-10-2026| watch oshi-theme-mv: 38% (41.32/106.00s)
-[1]Kusida      |09:13:00 | 11-10-2026| watch oshi-theme-mv: 44% (46.94/106.00s)
-[1]Kusida      |09:13:07 | 11-10-2026| watch oshi-theme-mv: 51% (54.77/106.00s)
-[1]Kusida      |09:13:13 | 11-10-2026| watch oshi-theme-mv: 57% (61.01/106.00s)
-[1]Kusida      |09:13:20 | 11-10-2026| watch oshi-theme-mv: 62% (66.64/106.00s)
-[1]Kusida      |09:13:26 | 11-10-2026| watch oshi-theme-mv: 68% (72.26/106.00s)
-[1]Kusida      |09:13:32 | 11-10-2026| watch oshi-theme-mv: 73% (77.90/106.00s)
-[1]Kusida      |09:13:39 | 11-10-2026| watch oshi-theme-mv: 79% (83.85/106.00s)
-[1]Kusida      |09:13:46 | 11-10-2026| watch oshi-theme-mv: 84% (89.47/106.00s)
-[1]Kusida      |09:13:56 | 11-10-2026| watch oshi-theme-mv: 90% (95.66/106.00s)
-[1]Kusida      |09:13:56 | 11-10-2026| watch oshi-theme-mv: COMPLETED (95.66/106.00s)
-[1]Kusida      |09:14:01 | 11-10-2026| watch [3/4] farming oshi-first-journey...
-[1]Kusida      |09:14:05 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Kusida      |09:14:13 | 11-10-2026| watch oshi-first-journey: 6% (5.46/87.00s)
-[1]Kusida      |09:14:19 | 11-10-2026| watch oshi-first-journey: 13% (11.72/87.00s)
-[1]Kusida      |09:14:26 | 11-10-2026| watch oshi-first-journey: 19% (17.34/87.00s)
-[1]Kusida      |09:14:32 | 11-10-2026| watch oshi-first-journey: 26% (23.08/87.00s)
-[1]Kusida      |09:14:39 | 11-10-2026| watch oshi-first-journey: 33% (28.73/87.00s)
-[1]Kusida      |09:14:45 | 11-10-2026| watch oshi-first-journey: 40% (35.03/87.00s)
-[1]Kusida      |09:14:52 | 11-10-2026| watch oshi-first-journey: 46% (40.65/87.00s)
-[1]Kusida      |09:15:00 | 11-10-2026| watch oshi-first-journey: 53% (46.90/87.00s)
-[1]Kusida      |09:15:06 | 11-10-2026| watch oshi-first-journey: 61% (53.33/87.00s)
-[1]Kusida      |09:15:14 | 11-10-2026| watch oshi-first-journey: 68% (59.26/87.00s)
-[1]Kusida      |09:15:24 | 11-10-2026| watch oshi-first-journey: 76% (66.20/87.00s)
-[1]Kusida      |09:15:34 | 11-10-2026| watch oshi-first-journey: 86% (75.13/87.00s)
-[1]Kusida      |09:15:41 | 11-10-2026| watch oshi-first-journey: 95% (82.79/87.00s)
-[1]Kusida      |09:15:41 | 11-10-2026| watch oshi-first-journey: COMPLETED (82.79/87.00s)
-[1]Kusida      |09:15:46 | 11-10-2026| watch [4/4] farming ep2...
-[1]Kusida      |09:15:50 | 11-10-2026| watch ep2: 0% (0.00/406.00s)
-[1]Kusida      |09:15:56 | 11-10-2026| watch ep2: 1% (5.93/406.00s)
-[1]Kusida      |09:16:06 | 11-10-2026| watch ep2: 2% (11.98/406.00s)
-[1]Kusida      |09:16:12 | 11-10-2026| watch ep2: 4% (19.47/406.00s)
-[1]Kusida      |09:16:19 | 11-10-2026| watch ep2: 6% (25.08/406.00s)
-[1]Kusida      |09:16:27 | 11-10-2026| watch ep2: 7% (31.52/406.00s)
-[1]Kusida      |09:16:34 | 11-10-2026| watch ep2: 9% (37.92/406.00s)
-[1]Kusida      |09:16:40 | 11-10-2026| watch ep2: 10% (44.21/406.00s)
-[1]Kusida      |09:16:48 | 11-10-2026| watch ep2: 12% (50.28/406.00s)
-[1]Kusida      |09:16:54 | 11-10-2026| watch ep2: 13% (56.60/406.00s)
-[1]Kusida      |09:17:02 | 11-10-2026| watch ep2: 15% (62.30/406.00s)
-[1]Kusida      |09:17:08 | 11-10-2026| watch ep2: 16% (68.53/406.00s)
-[1]Kusida      |09:17:16 | 11-10-2026| watch ep2: heartbeat GAGAL http=503
+[1]Kusida      |12:48:05 | 12-10-2026| watch: 1 video belum completed: ep2
+[1]Kusida      |12:48:05 | 12-10-2026| watch [1/1] farming ep2...
+[1]Kusida      |12:48:06 | 12-10-2026| watch ep2: mulai dari 0 (record 68.5s diabaikan)
+[1]Kusida      |12:48:07 | 12-10-2026| watch ep2: 16% (68.53/406.00s)
+[1]Kusida      |12:48:13 | 12-10-2026| watch ep2: 16% (68.53/406.00s)
+[1]Kusida      |12:48:19 | 12-10-2026| watch ep2: 16% (68.53/406.00s)
+[1]Kusida      |12:48:25 | 12-10-2026| watch ep2: 17% (69.51/406.00s)
+[1]Kusida      |12:48:31 | 12-10-2026| watch ep2: 17% (69.51/406.00s)
+[1]Kusida      |12:48:37 | 12-10-2026| watch ep2: 17% (69.51/406.00s)
+[1]Kusida      |12:48:43 | 12-10-2026| watch ep2: 17% (69.51/406.00s)
+[1]Kusida      |12:48:49 | 12-10-2026| watch ep2: 17% (69.88/406.00s)
+[1]Kusida      |12:48:55 | 12-10-2026| watch ep2: 17% (69.88/406.00s)
+[1]Kusida      |12:49:01 | 12-10-2026| watch ep2: 17% (69.88/406.00s)
+[1]Kusida      |12:49:06 | 12-10-2026| watch ep2: 17% (70.56/406.00s)
+[1]Kusida      |12:49:12 | 12-10-2026| watch ep2: 17% (70.56/406.00s)
+[1]Kusida      |12:49:18 | 12-10-2026| watch ep2: 17% (70.56/406.00s)
+[1]Kusida      |12:49:24 | 12-10-2026| watch ep2: 17% (71.11/406.00s)
+[1]Kusida      |12:49:30 | 12-10-2026| watch ep2: 18% (74.76/406.00s)
+[1]Kusida      |12:49:36 | 12-10-2026| watch ep2: 19% (80.37/406.00s)
+[1]Kusida      |12:49:42 | 12-10-2026| watch ep2: 21% (85.70/406.00s)
+[1]Kusida      |12:49:48 | 12-10-2026| watch ep2: 22% (90.92/406.00s)
+[1]Kusida      |12:49:54 | 12-10-2026| watch ep2: 23% (96.35/406.00s)
+[1]Kusida      |12:50:00 | 12-10-2026| watch ep2: 25% (101.65/406.00s)
+[1]Kusida      |12:50:06 | 12-10-2026| watch ep2: 26% (106.83/406.00s)
+[1]Kusida      |12:50:11 | 12-10-2026| watch ep2: 27% (112.16/406.00s)
+[1]Kusida      |12:50:17 | 12-10-2026| watch ep2: 28% (117.37/406.00s)
+[1]Kusida      |12:50:23 | 12-10-2026| watch ep2: 30% (122.73/406.00s)
+[1]Kusida      |12:50:29 | 12-10-2026| watch ep2: 31% (127.98/406.00s)
+[1]Kusida      |12:50:35 | 12-10-2026| watch ep2: 32% (133.34/406.00s)
+[1]Kusida      |12:50:41 | 12-10-2026| watch ep2: 34% (138.56/406.00s)
+[1]Kusida      |12:50:47 | 12-10-2026| watch ep2: 35% (143.87/406.00s)
+[1]Kusida      |12:50:53 | 12-10-2026| watch ep2: 36% (149.40/406.00s)
+[1]Kusida      |12:50:59 | 12-10-2026| watch ep2: 38% (154.80/406.00s)
+[1]Kusida      |12:51:05 | 12-10-2026| watch ep2: 39% (160.12/406.00s)
+[1]Kusida      |12:51:11 | 12-10-2026| watch ep2: 40% (165.47/406.00s)
+[1]Kusida      |12:51:17 | 12-10-2026| watch ep2: 42% (170.80/406.00s)
+[1]Kusida      |12:51:23 | 12-10-2026| watch ep2: 43% (176.08/406.00s)
+[1]Kusida      |12:51:29 | 12-10-2026| watch ep2: 44% (181.36/406.00s)
+[1]Kusida      |12:51:35 | 12-10-2026| watch ep2: 46% (187.05/406.00s)
+[1]Kusida      |12:51:41 | 12-10-2026| watch ep2: 47% (192.32/406.00s)
+[1]Kusida      |12:51:47 | 12-10-2026| watch ep2: 48% (197.87/406.00s)
+[1]Kusida      |12:51:53 | 12-10-2026| watch ep2: 50% (203.11/406.00s)
+[1]Kusida      |12:51:59 | 12-10-2026| watch ep2: 51% (208.83/406.00s)
+[1]Kusida      |12:52:05 | 12-10-2026| watch ep2: 52% (214.40/406.00s)
+[1]Kusida      |12:52:11 | 12-10-2026| watch ep2: 54% (219.66/406.00s)
+[1]Kusida      |12:52:17 | 12-10-2026| watch ep2: 55% (224.87/406.00s)
+[1]Kusida      |12:52:23 | 12-10-2026| watch ep2: 56% (230.25/406.00s)
+[1]Kusida      |12:52:29 | 12-10-2026| watch ep2: 58% (235.66/406.00s)
+[1]Kusida      |12:52:36 | 12-10-2026| watch ep2: 59% (241.39/406.00s)
+[1]Kusida      |12:52:42 | 12-10-2026| watch ep2: 60% (247.37/406.00s)
+[1]Kusida      |12:52:47 | 12-10-2026| watch ep2: 62% (252.58/406.00s)
+[1]Kusida      |12:52:53 | 12-10-2026| watch ep2: 63% (257.83/406.00s)
+[1]Kusida      |12:52:59 | 12-10-2026| watch ep2: 64% (263.16/406.00s)
+[1]Kusida      |12:53:05 | 12-10-2026| watch ep2: 66% (268.51/406.00s)
+[1]Kusida      |12:53:11 | 12-10-2026| watch ep2: 67% (273.81/406.00s)
+[1]Kusida      |12:53:17 | 12-10-2026| watch ep2: 68% (279.05/406.00s)
+[1]Kusida      |12:53:23 | 12-10-2026| watch ep2: 70% (284.30/406.00s)
+[1]Kusida      |12:53:29 | 12-10-2026| watch ep2: 71% (289.68/406.00s)
+[1]Kusida      |12:53:35 | 12-10-2026| watch ep2: 72% (295.51/406.00s)
+[1]Kusida      |12:53:41 | 12-10-2026| watch ep2: 74% (300.82/406.00s)
+[1]Kusida      |12:53:47 | 12-10-2026| watch ep2: 75% (306.30/406.00s)
+[1]Kusida      |12:53:54 | 12-10-2026| watch ep2: 76% (311.75/406.00s)
+[1]Kusida      |12:54:00 | 12-10-2026| watch ep2: 78% (317.48/406.00s)
+[1]Kusida      |12:54:06 | 12-10-2026| watch ep2: 79% (322.79/406.00s)
+[1]Kusida      |12:54:11 | 12-10-2026| watch ep2: 80% (328.08/406.00s)
+[1]Kusida      |12:54:18 | 12-10-2026| watch ep2: 82% (333.34/406.00s)
+[1]Kusida      |12:54:24 | 12-10-2026| watch ep2: 83% (339.21/406.00s)
+[1]Kusida      |12:54:30 | 12-10-2026| watch ep2: 84% (344.97/406.00s)
+[1]Kusida      |12:54:36 | 12-10-2026| watch ep2: 86% (350.20/406.00s)
+[1]Kusida      |12:54:42 | 12-10-2026| watch ep2: 87% (355.48/406.00s)
+[1]Kusida      |12:54:48 | 12-10-2026| watch ep2: 88% (360.76/406.00s)
+[1]Kusida      |12:54:54 | 12-10-2026| watch ep2: 90% (365.98/406.00s)
+[1]Kusida      |12:54:54 | 12-10-2026| watch ep2: COMPLETED (365.98/406.00s)
 --> [1]Kusida menjalankan: Read Article
-[1]Kusida      |09:17:16 | 11-10-2026| news ERROR: news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |12:54:55 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Kusida      |12:54:55 | 12-10-2026| mint eligibility: {"userId":"2011503780723134464","youtube":{"url":"https://www.youtube.com/@kusidanatania","status":"submitted","revision":"854368cf-d5d2-437c-a748-2294879c547f","submittedAt":1791686699,"reviewedAt":1
+[1]Kusida      |12:54:55 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Kusida menjalankan: Quiz Anime
-[1]Kusida      |09:17:16 | 11-10-2026| quiz ERROR: quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |12:54:56 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Kusida      |12:54:57 | 12-10-2026| quiz ep2: BENAR (1) +10 poin
+[1]Kusida      |12:55:00 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Kusida      |12:55:00 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Kusida      |12:55:00 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Kusida      |12:55:00 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Kusida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kusida      |09:17:16 | 11-10-2026| music ERROR: music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-[1]Kusida      |09:17:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |12:55:03 | 12-10-2026| music memutar "神様みたいに" (254s)...
+[1]Kusida      |12:55:14 | 12-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Kusida      |12:55:25 | 12-10-2026| music "神様みたいに": 7% (18.9981/254s)
+[1]Kusida      |12:55:36 | 12-10-2026| music "神様みたいに": 11% (28.843200000000003/254s)
+[1]Kusida      |12:55:48 | 12-10-2026| music "神様みたいに": 15% (38.58840000000001/254s)
+[1]Kusida      |12:55:59 | 12-10-2026| music "神様みたいに": 19% (49.674600000000005/254s)
+[1]Kusida      |12:56:10 | 12-10-2026| music "神様みたいに": 23% (59.706/254s)
+[1]Kusida      |12:56:21 | 12-10-2026| music "神様みたいに": 27% (69.5484/254s)
+[1]Kusida      |12:56:33 | 12-10-2026| music "神様みたいに": 31% (79.4916/254s)
+[1]Kusida      |12:56:44 | 12-10-2026| music "神様みたいに": 35% (89.721/254s)
+[1]Kusida      |12:56:55 | 12-10-2026| music "神様みたいに": 39% (99.8973/254s)
+[1]Kusida      |12:57:06 | 12-10-2026| music "神様みたいに": 43% (109.6515/254s)
+[1]Kusida      |12:57:18 | 12-10-2026| music "神様みたいに": 47% (119.62349999999999/254s)
+[1]Kusida      |12:57:29 | 12-10-2026| music "神様みたいに": 51% (130.0068/254s)
+[1]Kusida      |12:57:40 | 12-10-2026| music "神様みたいに": 55% (139.9464/254s)
+[1]Kusida      |12:57:51 | 12-10-2026| music "神様みたいに": 59% (150.4377/254s)
+[1]Kusida      |12:58:02 | 12-10-2026| music "神様みたいに": 63% (160.4961/254s)
+[1]Kusida      |12:58:13 | 12-10-2026| music "神様みたいに": 67% (170.25570000000002/254s)
+[1]Kusida      |12:58:24 | 12-10-2026| music "神様みたいに": 70% (180.02790000000002/254s)
+[1]Kusida      |12:58:35 | 12-10-2026| music "神様みたいに": 74% (190.12140000000002/254s)
+[1]Kusida      |12:58:46 | 12-10-2026| music "神様みたいに": 78% (199.98720000000003/254s)
+[1]Kusida      |12:58:57 | 12-10-2026| music "神様みたいに": 82% (209.72610000000003/254s)
+[1]Kusida      |12:58:57 | 12-10-2026| music "神様みたいに": selesai 209.72610000000003s
+[1]Kusida      |12:58:59 | 12-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Kusida      |12:59:11 | 12-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Kusida      |12:59:22 | 12-10-2026| music "せーので、飛ぼう！": 7% (19.1817/269s)
+[1]Kusida      |12:59:32 | 12-10-2026| music "せーので、飛ぼう！": 10% (28.9314/269s)
+[1]Kusida      |12:59:43 | 12-10-2026| music "せーので、飛ぼう！": 14% (38.6766/269s)
+[1]Kusida      |12:59:54 | 12-10-2026| music "せーので、飛ぼう！": 18% (48.5298/269s)
+[1]Kusida      |13:00:05 | 12-10-2026| music "せーので、飛ぼう！": 21% (58.3515/269s)
+[1]Kusida      |13:00:16 | 12-10-2026| music "せーので、飛ぼう！": 25% (68.382/269s)
+[1]Kusida      |13:00:27 | 12-10-2026| music "せーので、飛ぼう！": 29% (78.1641/269s)
+[1]Kusida      |13:00:38 | 12-10-2026| music "せーので、飛ぼう！": 32% (87.9102/269s)
+[1]Kusida      |13:00:50 | 12-10-2026| music "せーので、飛ぼう！": 36% (97.9974/269s)
+[1]Kusida      |13:01:01 | 12-10-2026| music "せーので、飛ぼう！": 40% (108.2034/269s)
+[1]Kusida      |13:01:12 | 12-10-2026| music "せーので、飛ぼう！": 44% (118.8171/269s)
+[1]Kusida      |13:01:23 | 12-10-2026| music "せーので、飛ぼう！": 47% (128.5776/269s)
+[1]Kusida      |13:01:34 | 12-10-2026| music "せーので、飛ぼう！": 51% (138.3768/269s)
+[1]Kusida      |13:01:45 | 12-10-2026| music "せーので、飛ぼう！": 55% (148.6206/269s)
+[1]Kusida      |13:01:56 | 12-10-2026| music "せーので、飛ぼう！": 58% (158.4711/269s)
+[1]Kusida      |13:02:08 | 12-10-2026| music "せーので、飛ぼう！": 62% (168.35670000000002/269s)
+[1]Kusida      |13:02:19 | 12-10-2026| music "せーので、飛ぼう！": 66% (179.001/269s)
+[1]Kusida      |13:02:32 | 12-10-2026| music "せーので、飛ぼう！": 70% (189.1206/269s)
+[1]Kusida      |13:02:44 | 12-10-2026| music "せーので、飛ぼう！": 74% (200.62709999999998/269s)
+[1]Kusida      |13:02:55 | 12-10-2026| music "せーので、飛ぼう！": 78% (211.27769999999998/269s)
+[1]Kusida      |13:03:06 | 12-10-2026| music "せーので、飛ぼう！": 82% (221.11829999999998/269s)
+[1]Kusida      |13:03:06 | 12-10-2026| music "せーので、飛ぼう！": selesai 221.11829999999998s
+[1]Kusida      |13:03:09 | 12-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Kusida      |13:03:21 | 12-10-2026| music "ON CHAIN NEXUS": 3% (9.0063/276s)
+[1]Kusida      |13:03:32 | 12-10-2026| music "ON CHAIN NEXUS": 7% (19.7667/276s)
+[1]Kusida      |13:03:43 | 12-10-2026| music "ON CHAIN NEXUS": 10% (29.721600000000002/276s)
+[1]Kusida      |13:03:54 | 12-10-2026| music "ON CHAIN NEXUS": 14% (39.527100000000004/276s)
+[1]Kusida      |13:04:05 | 12-10-2026| music "ON CHAIN NEXUS": 18% (49.8492/276s)
+[1]Kusida      |13:04:16 | 12-10-2026| music "ON CHAIN NEXUS": 21% (59.614200000000004/276s)
+[1]Kusida      |13:04:27 | 12-10-2026| music "ON CHAIN NEXUS": 25% (69.6213/276s)
+[1]Kusida      |13:04:38 | 12-10-2026| music "ON CHAIN NEXUS": 28% (79.4133/276s)
+[1]Kusida      |13:04:49 | 12-10-2026| music "ON CHAIN NEXUS": 32% (89.2737/276s)
+[1]Kusida      |13:05:00 | 12-10-2026| music "ON CHAIN NEXUS": 35% (99.33120000000001/276s)
+[1]Kusida      |13:05:11 | 12-10-2026| music "ON CHAIN NEXUS": 39% (109.28070000000001/276s)
+[1]Kusida      |13:05:24 | 12-10-2026| music "ON CHAIN NEXUS": 43% (119.43990000000001/276s)
+[1]Kusida      |13:05:35 | 12-10-2026| music "ON CHAIN NEXUS": 47% (130.5585/276s)
+[1]Kusida      |13:05:46 | 12-10-2026| music "ON CHAIN NEXUS": 50% (140.35500000000002/276s)
+[1]Kusida      |13:05:57 | 12-10-2026| music "ON CHAIN NEXUS": 54% (150.1398/276s)
+[1]Kusida      |13:06:08 | 12-10-2026| music "ON CHAIN NEXUS": 58% (160.20000000000002/276s)
+[1]Kusida      |13:06:19 | 12-10-2026| music "ON CHAIN NEXUS": 61% (170.08290000000002/276s)
+[1]Kusida      |13:06:30 | 12-10-2026| music "ON CHAIN NEXUS": 65% (179.97660000000002/276s)
+[1]Kusida      |13:06:41 | 12-10-2026| music "ON CHAIN NEXUS": 68% (190.00080000000003/276s)
+[1]Kusida      |13:06:51 | 12-10-2026| music "ON CHAIN NEXUS": 72% (199.74240000000003/276s)
+[1]Kusida      |13:07:02 | 12-10-2026| music "ON CHAIN NEXUS": 75% (209.51910000000004/276s)
+[1]Kusida      |13:07:14 | 12-10-2026| music "ON CHAIN NEXUS": 79% (219.30300000000003/276s)
+[1]Kusida      |13:07:25 | 12-10-2026| music "ON CHAIN NEXUS": 83% (229.51080000000002/276s)
+[1]Kusida      |13:07:25 | 12-10-2026| music "ON CHAIN NEXUS": selesai 229.51080000000002s
+[1]Kusida      |13:07:26 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kusida      |13:07:27 | 12-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Kusida      |13:07:31 | 12-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Kusida      |13:07:36 | 12-10-2026| mission anime-completed-3: CLAIM OK +10 poin
 --> [1]Kusida menjalankan: Claim Missions
-[1]Kusida      |09:17:16 | 11-10-2026| missions ERROR: missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |13:07:39 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Kusida      |13:07:39 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kusida      |13:07:39 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kusida menjalankan: Check Eligibility
 
 --- eligibility [1]Kusida ---
-  @kusidanatania | score=910 rank=6463
-  tasks    [###################-] 72/75
-  missions: ERROR missions http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  quiz: ERROR quizzes http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  watch: ERROR watch-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  music: ERROR music-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  artikel: ERROR news-progress http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
-  mint: ERROR mint-eligibility http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+  @kusidanatania | score=940 rank=6475
+  tasks    [##################--] 71/80
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kusida menjalankan: Read Manga
-[1]Kusida      |09:17:16 | 11-10-2026| manga ERROR: manga-history http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |13:07:43 | 12-10-2026| manga: 13/13 chapter belum completed
+[1]Kusida      |13:07:43 | 12-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Kusida      |13:07:49 | 12-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Kusida      |13:07:53 | 12-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Kusida      |13:07:58 | 12-10-2026| manga ch1 (1): page 3/19 (15%) 9s
+[1]Kusida      |13:08:02 | 12-10-2026| manga ch1 (1): page 4/19 (21%) 14s
+[1]Kusida      |13:08:06 | 12-10-2026| manga ch1 (1): page 5/19 (26%) 18s
+[1]Kusida      |13:08:11 | 12-10-2026| manga ch1 (1): page 6/19 (31%) 22s
+[1]Kusida      |13:08:17 | 12-10-2026| manga ch1 (1): page 7/19 (36%) 27s
+[1]Kusida      |13:08:22 | 12-10-2026| manga ch1 (1): page 8/19 (42%) 33s
+[1]Kusida      |13:08:26 | 12-10-2026| manga ch1 (1): page 9/19 (47%) 38s
+[1]Kusida      |13:08:31 | 12-10-2026| manga ch1 (1): page 10/19 (52%) 42s
+[1]Kusida      |13:08:35 | 12-10-2026| manga ch1 (1): page 11/19 (57%) 47s
+[1]Kusida      |13:08:40 | 12-10-2026| manga ch1 (1): page 12/19 (63%) 51s
+[1]Kusida      |13:08:44 | 12-10-2026| manga ch1 (1): page 13/19 (68%) 56s
+[1]Kusida      |13:08:49 | 12-10-2026| manga ch1 (1): page 14/19 (73%) 60s
+[1]Kusida      |13:08:54 | 12-10-2026| manga ch1 (1): page 15/19 (78%) 65s
+[1]Kusida      |13:08:58 | 12-10-2026| manga ch1 (1): page 16/19 (84%) 70s
+[1]Kusida      |13:09:03 | 12-10-2026| manga ch1 (1): page 17/19 (89%) 74s
+[1]Kusida      |13:09:07 | 12-10-2026| manga ch1 (1): page 18/19 (94%) 79s
+[1]Kusida      |13:09:12 | 12-10-2026| manga ch1 (1): page 19/19 (99%) 83s
+[1]Kusida      |13:09:16 | 12-10-2026| manga ch1 (1): COMPLETED
+[1]Kusida      |13:09:19 | 12-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Kusida      |13:09:25 | 12-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Kusida      |13:09:29 | 12-10-2026| manga ch2 (450001): page 2/18 (11%) 4s
+[1]Kusida      |13:09:34 | 12-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Kusida      |13:09:38 | 12-10-2026| manga ch2 (450001): page 4/18 (22%) 13s
+[1]Kusida      |13:09:42 | 12-10-2026| manga ch2 (450001): page 5/18 (27%) 18s
+[1]Kusida      |13:09:47 | 12-10-2026| manga ch2 (450001): page 6/18 (33%) 22s
+[1]Kusida      |13:09:51 | 12-10-2026| manga ch2 (450001): page 7/18 (38%) 26s
+[1]Kusida      |13:09:55 | 12-10-2026| manga ch2 (450001): page 8/18 (44%) 31s
+[1]Kusida      |13:10:00 | 12-10-2026| manga ch2 (450001): page 9/18 (50%) 35s
+[1]Kusida      |13:10:05 | 12-10-2026| manga ch2 (450001): page 10/18 (55%) 39s
+[1]Kusida      |13:10:09 | 12-10-2026| manga ch2 (450001): page 11/18 (61%) 45s
+[1]Kusida      |13:10:14 | 12-10-2026| manga ch2 (450001): page 12/18 (66%) 49s
+[1]Kusida      |13:10:18 | 12-10-2026| manga ch2 (450001): page 13/18 (72%) 53s
+[1]Kusida      |13:10:22 | 12-10-2026| manga ch2 (450001): page 14/18 (77%) 58s
+[1]Kusida      |13:10:27 | 12-10-2026| manga ch2 (450001): page 15/18 (83%) 62s
+[1]Kusida      |13:10:31 | 12-10-2026| manga ch2 (450001): page 16/18 (88%) 67s
+[1]Kusida      |13:10:36 | 12-10-2026| manga ch2 (450001): page 17/18 (94%) 71s
+[1]Kusida      |13:10:41 | 12-10-2026| manga ch2 (450001): page 18/18 (99%) 76s
+[1]Kusida      |13:10:45 | 12-10-2026| manga ch2 (450001): COMPLETED
+[1]Kusida      |13:10:48 | 12-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Kusida      |13:10:54 | 12-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Kusida      |13:10:58 | 12-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Kusida      |13:11:03 | 12-10-2026| manga ch3 (2160001): page 3/17 (17%) 9s
+[1]Kusida      |13:11:07 | 12-10-2026| manga ch3 (2160001): page 4/17 (23%) 13s
+[1]Kusida      |13:11:11 | 12-10-2026| manga ch3 (2160001): page 5/17 (29%) 18s
+[1]Kusida      |13:11:16 | 12-10-2026| manga ch3 (2160001): page 6/17 (35%) 22s
+[1]Kusida      |13:11:20 | 12-10-2026| manga ch3 (2160001): page 7/17 (41%) 26s
+[1]Kusida      |13:11:25 | 12-10-2026| manga ch3 (2160001): page 8/17 (47%) 31s
+[1]Kusida      |13:11:29 | 12-10-2026| manga ch3 (2160001): page 9/17 (52%) 36s
+[1]Kusida      |13:11:34 | 12-10-2026| manga ch3 (2160001): page 10/17 (58%) 40s
+[1]Kusida      |13:11:39 | 12-10-2026| manga ch3 (2160001): page 11/17 (64%) 45s
+[1]Kusida      |13:11:43 | 12-10-2026| manga ch3 (2160001): page 12/17 (70%) 49s
+[1]Kusida      |13:11:48 | 12-10-2026| manga ch3 (2160001): page 13/17 (76%) 54s
+[1]Kusida      |13:11:53 | 12-10-2026| manga ch3 (2160001): page 14/17 (82%) 58s
+[1]Kusida      |13:11:57 | 12-10-2026| manga ch3 (2160001): page 15/17 (88%) 63s
+[1]Kusida      |13:12:01 | 12-10-2026| manga ch3 (2160001): page 16/17 (94%) 67s
+[1]Kusida      |13:12:06 | 12-10-2026| manga ch3 (2160001): page 17/17 (99%) 72s
+[1]Kusida      |13:12:10 | 12-10-2026| manga ch3 (2160001): COMPLETED
+[1]Kusida      |13:12:13 | 12-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Kusida      |13:12:19 | 12-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Kusida      |13:12:24 | 12-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Kusida      |13:12:28 | 12-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Kusida      |13:12:35 | 12-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Kusida      |13:12:40 | 12-10-2026| manga ch4 (2400001): page 5/17 (29%) 21s
+[1]Kusida      |13:12:44 | 12-10-2026| manga ch4 (2400001): page 6/17 (35%) 26s
+[1]Kusida      |13:12:49 | 12-10-2026| manga ch4 (2400001): page 7/17 (41%) 30s
+[1]Kusida      |13:12:53 | 12-10-2026| manga ch4 (2400001): page 8/17 (47%) 35s
+[1]Kusida      |13:13:00 | 12-10-2026| manga ch4 (2400001): page 9/17 (52%) 39s
+[1]Kusida      |13:13:05 | 12-10-2026| manga ch4 (2400001): page 10/17 (58%) 46s
+[1]Kusida      |13:13:09 | 12-10-2026| manga ch4 (2400001): page 11/17 (64%) 51s
+[1]Kusida      |13:13:15 | 12-10-2026| manga ch4 (2400001): page 12/17 (70%) 55s
+[1]Kusida      |13:13:20 | 12-10-2026| manga ch4 (2400001): page 13/17 (76%) 61s
+[1]Kusida      |13:13:24 | 12-10-2026| manga ch4 (2400001): page 14/17 (82%) 66s
+[1]Kusida      |13:13:29 | 12-10-2026| manga ch4 (2400001): page 15/17 (88%) 70s
+[1]Kusida      |13:13:34 | 12-10-2026| manga ch4 (2400001): page 16/17 (94%) 75s
+[1]Kusida      |13:13:38 | 12-10-2026| manga ch4 (2400001): page 17/17 (99%) 80s
+[1]Kusida      |13:13:42 | 12-10-2026| manga ch4 (2400001): COMPLETED
+[1]Kusida      |13:13:45 | 12-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Kusida      |13:13:51 | 12-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Kusida      |13:13:56 | 12-10-2026| manga ch5 (2490001): page 2/18 (11%) 5s
+[1]Kusida      |13:14:00 | 12-10-2026| manga ch5 (2490001): page 3/18 (16%) 9s
+[1]Kusida      |13:14:05 | 12-10-2026| manga ch5 (2490001): page 4/18 (22%) 14s
+[1]Kusida      |13:14:10 | 12-10-2026| manga ch5 (2490001): page 5/18 (27%) 19s
+[1]Kusida      |13:14:14 | 12-10-2026| manga ch5 (2490001): page 6/18 (33%) 23s
+[1]Kusida      |13:14:19 | 12-10-2026| manga ch5 (2490001): page 7/18 (38%) 28s
+[1]Kusida      |13:14:23 | 12-10-2026| manga ch5 (2490001): page 8/18 (44%) 32s
+[1]Kusida      |13:14:27 | 12-10-2026| manga ch5 (2490001): page 9/18 (50%) 37s
+[1]Kusida      |13:14:32 | 12-10-2026| manga ch5 (2490001): page 10/18 (55%) 41s
+[1]Kusida      |13:14:36 | 12-10-2026| manga ch5 (2490001): page 11/18 (61%) 45s
+[1]Kusida      |13:14:41 | 12-10-2026| manga ch5 (2490001): page 12/18 (66%) 50s
+[1]Kusida      |13:14:45 | 12-10-2026| manga ch5 (2490001): page 13/18 (72%) 54s
+[1]Kusida      |13:14:49 | 12-10-2026| manga ch5 (2490001): page 14/18 (77%) 58s
+[1]Kusida      |13:14:54 | 12-10-2026| manga ch5 (2490001): page 15/18 (83%) 63s
+[1]Kusida      |13:14:58 | 12-10-2026| manga ch5 (2490001): page 16/18 (88%) 67s
+[1]Kusida      |13:15:03 | 12-10-2026| manga ch5 (2490001): page 17/18 (94%) 72s
+[1]Kusida      |13:15:07 | 12-10-2026| manga ch5 (2490001): page 18/18 (99%) 77s
+[1]Kusida      |13:15:12 | 12-10-2026| manga ch5 (2490001): COMPLETED
+[1]Kusida      |13:15:15 | 12-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Kusida      |13:15:20 | 12-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Kusida      |13:15:25 | 12-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Kusida      |13:15:29 | 12-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Kusida      |13:15:34 | 12-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Kusida      |13:15:38 | 12-10-2026| manga ch6 (2610001): page 5/17 (29%) 18s
+[1]Kusida      |13:15:42 | 12-10-2026| manga ch6 (2610001): page 6/17 (35%) 22s
+[1]Kusida      |13:15:47 | 12-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Kusida      |13:15:51 | 12-10-2026| manga ch6 (2610001): page 8/17 (47%) 31s
+[1]Kusida      |13:15:55 | 12-10-2026| manga ch6 (2610001): page 9/17 (52%) 35s
+[1]Kusida      |13:16:00 | 12-10-2026| manga ch6 (2610001): page 10/17 (58%) 40s
+[1]Kusida      |13:16:05 | 12-10-2026| manga ch6 (2610001): page 11/17 (64%) 44s
+[1]Kusida      |13:16:09 | 12-10-2026| manga ch6 (2610001): page 12/17 (70%) 49s
+[1]Kusida      |13:16:14 | 12-10-2026| manga ch6 (2610001): page 13/17 (76%) 54s
+[1]Kusida      |13:16:18 | 12-10-2026| manga ch6 (2610001): page 14/17 (82%) 58s
+[1]Kusida      |13:16:23 | 12-10-2026| manga ch6 (2610001): page 15/17 (88%) 63s
+[1]Kusida      |13:16:27 | 12-10-2026| manga ch6 (2610001): page 16/17 (94%) 67s
+[1]Kusida      |13:16:32 | 12-10-2026| manga ch6 (2610001): page 17/17 (99%) 72s
+[1]Kusida      |13:16:36 | 12-10-2026| manga ch6 (2610001): COMPLETED
+[1]Kusida      |13:16:39 | 12-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Kusida      |13:16:44 | 12-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Kusida      |13:16:49 | 12-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Kusida      |13:16:54 | 12-10-2026| manga ch1 (180003): page 3/21 (14%) 9s
+[1]Kusida      |13:16:58 | 12-10-2026| manga ch1 (180003): page 4/21 (19%) 14s
+[1]Kusida      |13:17:02 | 12-10-2026| manga ch1 (180003): page 5/21 (23%) 18s
+[1]Kusida      |13:17:07 | 12-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
+[1]Kusida      |13:17:11 | 12-10-2026| manga ch1 (180003): page 7/21 (33%) 27s
+[1]Kusida      |13:17:15 | 12-10-2026| manga ch1 (180003): page 8/21 (38%) 31s
+[1]Kusida      |13:17:20 | 12-10-2026| manga ch1 (180003): page 9/21 (42%) 36s
+[1]Kusida      |13:17:24 | 12-10-2026| manga ch1 (180003): page 10/21 (47%) 40s
+[1]Kusida      |13:17:29 | 12-10-2026| manga ch1 (180003): page 11/21 (52%) 45s
+[1]Kusida      |13:17:38 | 12-10-2026| manga ch1 (180003): page 12/21 (57%) 49s
+[1]Kusida      |13:17:42 | 12-10-2026| manga ch1 (180003): page 13/21 (61%) 58s
+[1]Kusida      |13:17:46 | 12-10-2026| manga ch1 (180003): page 14/21 (66%) 62s
+[1]Kusida      |13:17:51 | 12-10-2026| manga ch1 (180003): page 15/21 (71%) 66s
+[1]Kusida      |13:17:55 | 12-10-2026| manga ch1 (180003): page 16/21 (76%) 71s
+[1]Kusida      |13:18:00 | 12-10-2026| manga ch1 (180003): page 17/21 (80%) 75s
+[1]Kusida      |13:18:04 | 12-10-2026| manga ch1 (180003): page 18/21 (85%) 80s
+[1]Kusida      |13:18:09 | 12-10-2026| manga ch1 (180003): page 19/21 (90%) 84s
+[1]Kusida      |13:18:13 | 12-10-2026| manga ch1 (180003): page 20/21 (95%) 89s
+[1]Kusida      |13:18:18 | 12-10-2026| manga ch1 (180003): page 21/21 (99%) 93s
+[1]Kusida      |13:18:23 | 12-10-2026| manga ch1 (180003): COMPLETED
+[1]Kusida      |13:18:26 | 12-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Kusida      |13:18:31 | 12-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Kusida      |13:18:36 | 12-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Kusida      |13:18:40 | 12-10-2026| manga ch2 (990005): page 3/18 (16%) 9s
+[1]Kusida      |13:18:45 | 12-10-2026| manga ch2 (990005): page 4/18 (22%) 14s
+[1]Kusida      |13:18:50 | 12-10-2026| manga ch2 (990005): page 5/18 (27%) 18s
+[1]Kusida      |13:18:54 | 12-10-2026| manga ch2 (990005): page 6/18 (33%) 23s
+[1]Kusida      |13:18:59 | 12-10-2026| manga ch2 (990005): page 7/18 (38%) 28s
+[1]Kusida      |13:19:03 | 12-10-2026| manga ch2 (990005): page 8/18 (44%) 32s
+[1]Kusida      |13:19:07 | 12-10-2026| manga ch2 (990005): page 9/18 (50%) 36s
+[1]Kusida      |13:19:12 | 12-10-2026| manga ch2 (990005): page 10/18 (55%) 41s
+[1]Kusida      |13:19:16 | 12-10-2026| manga ch2 (990005): page 11/18 (61%) 45s
+[1]Kusida      |13:19:20 | 12-10-2026| manga ch2 (990005): page 12/18 (66%) 49s
+[1]Kusida      |13:19:24 | 12-10-2026| manga ch2 (990005): page 13/18 (72%) 54s
+[1]Kusida      |13:19:29 | 12-10-2026| manga ch2 (990005): page 14/18 (77%) 58s
+[1]Kusida      |13:19:33 | 12-10-2026| manga ch2 (990005): page 15/18 (83%) 62s
+[1]Kusida      |13:19:38 | 12-10-2026| manga ch2 (990005): page 16/18 (88%) 67s
+[1]Kusida      |13:19:42 | 12-10-2026| manga ch2 (990005): page 17/18 (94%) 71s
+[1]Kusida      |13:19:47 | 12-10-2026| manga ch2 (990005): page 18/18 (99%) 76s
+[1]Kusida      |13:19:51 | 12-10-2026| manga ch2 (990005): COMPLETED
+[1]Kusida      |13:19:54 | 12-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Kusida      |13:19:59 | 12-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Kusida      |13:20:04 | 12-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
+[1]Kusida      |13:20:09 | 12-10-2026| manga ch3 (1980001): page 3/20 (15%) 9s
+[1]Kusida      |13:20:14 | 12-10-2026| manga ch3 (1980001): page 4/20 (20%) 14s
+[1]Kusida      |13:20:18 | 12-10-2026| manga ch3 (1980001): page 5/20 (25%) 19s
+[1]Kusida      |13:20:22 | 12-10-2026| manga ch3 (1980001): page 6/20 (30%) 23s
+[1]Kusida      |13:20:27 | 12-10-2026| manga ch3 (1980001): page 7/20 (35%) 27s
+[1]Kusida      |13:20:31 | 12-10-2026| manga ch3 (1980001): page 8/20 (40%) 32s
+[1]Kusida      |13:20:36 | 12-10-2026| manga ch3 (1980001): page 9/20 (45%) 36s
+[1]Kusida      |13:20:41 | 12-10-2026| manga ch3 (1980001): page 10/20 (50%) 41s
+[1]Kusida      |13:20:45 | 12-10-2026| manga ch3 (1980001): page 11/20 (55%) 45s
+[1]Kusida      |13:20:49 | 12-10-2026| manga ch3 (1980001): page 12/20 (60%) 50s
+[1]Kusida      |13:20:55 | 12-10-2026| manga ch3 (1980001): page 13/20 (65%) 54s
+[1]Kusida      |13:21:00 | 12-10-2026| manga ch3 (1980001): page 14/20 (70%) 60s
+[1]Kusida      |13:21:04 | 12-10-2026| manga ch3 (1980001): page 15/20 (75%) 65s
+[1]Kusida      |13:21:08 | 12-10-2026| manga ch3 (1980001): page 16/20 (80%) 69s
+[1]Kusida      |13:21:13 | 12-10-2026| manga ch3 (1980001): page 17/20 (85%) 73s
+[1]Kusida      |13:21:17 | 12-10-2026| manga ch3 (1980001): page 18/20 (90%) 78s
+[1]Kusida      |13:21:22 | 12-10-2026| manga ch3 (1980001): page 19/20 (95%) 82s
+[1]Kusida      |13:21:26 | 12-10-2026| manga ch3 (1980001): page 20/20 (99%) 87s
+[1]Kusida      |13:21:31 | 12-10-2026| manga ch3 (1980001): COMPLETED
+[1]Kusida      |13:21:34 | 12-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Kusida      |13:21:39 | 12-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Kusida      |13:21:43 | 12-10-2026| manga ch1 (2100001): page 2/9 (22%) 4s
+[1]Kusida      |13:21:47 | 12-10-2026| manga ch1 (2100001): page 3/9 (33%) 9s
+[1]Kusida      |13:21:52 | 12-10-2026| manga ch1 (2100001): page 4/9 (44%) 13s
+[1]Kusida      |13:21:56 | 12-10-2026| manga ch1 (2100001): page 5/9 (55%) 17s
+[1]Kusida      |13:22:01 | 12-10-2026| manga ch1 (2100001): page 6/9 (66%) 22s
+[1]Kusida      |13:22:05 | 12-10-2026| manga ch1 (2100001): page 7/9 (77%) 27s
+[1]Kusida      |13:22:10 | 12-10-2026| manga ch1 (2100001): page 8/9 (88%) 31s
+[1]Kusida      |13:22:14 | 12-10-2026| manga ch1 (2100001): page 9/9 (99%) 35s
+[1]Kusida      |13:22:19 | 12-10-2026| manga ch1 (2100001): COMPLETED
+[1]Kusida      |13:22:22 | 12-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Kusida      |13:22:27 | 12-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Kusida      |13:22:32 | 12-10-2026| manga ch1 (2070001): page 2/10 (20%) 4s
+[1]Kusida      |13:22:37 | 12-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Kusida      |13:22:42 | 12-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Kusida      |13:22:46 | 12-10-2026| manga ch1 (2070001): page 5/10 (50%) 19s
+[1]Kusida      |13:22:51 | 12-10-2026| manga ch1 (2070001): page 6/10 (60%) 24s
+[1]Kusida      |13:22:55 | 12-10-2026| manga ch1 (2070001): page 7/10 (70%) 28s
+[1]Kusida      |13:22:59 | 12-10-2026| manga ch1 (2070001): page 8/10 (80%) 32s
+[1]Kusida      |13:23:04 | 12-10-2026| manga ch1 (2070001): page 9/10 (90%) 36s
+[1]Kusida      |13:23:09 | 12-10-2026| manga ch1 (2070001): page 10/10 (99%) 42s
+[1]Kusida      |13:23:13 | 12-10-2026| manga ch1 (2070001): COMPLETED
+[1]Kusida      |13:23:16 | 12-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Kusida      |13:23:22 | 12-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Kusida      |13:23:26 | 12-10-2026| manga ch2 (2520001): page 2/11 (18%) 5s
+[1]Kusida      |13:23:31 | 12-10-2026| manga ch2 (2520001): page 3/11 (27%) 9s
+[1]Kusida      |13:23:35 | 12-10-2026| manga ch2 (2520001): page 4/11 (36%) 13s
+[1]Kusida      |13:23:39 | 12-10-2026| manga ch2 (2520001): page 5/11 (45%) 18s
+[1]Kusida      |13:23:44 | 12-10-2026| manga ch2 (2520001): page 6/11 (54%) 22s
+[1]Kusida      |13:23:48 | 12-10-2026| manga ch2 (2520001): page 7/11 (63%) 27s
+[1]Kusida      |13:23:53 | 12-10-2026| manga ch2 (2520001): page 8/11 (72%) 31s
+[1]Kusida      |13:23:58 | 12-10-2026| manga ch2 (2520001): page 9/11 (81%) 36s
+[1]Kusida      |13:24:03 | 12-10-2026| manga ch2 (2520001): page 10/11 (90%) 40s
+[1]Kusida      |13:24:07 | 12-10-2026| manga ch2 (2520001): page 11/11 (99%) 45s
+[1]Kusida      |13:24:12 | 12-10-2026| manga ch2 (2520001): COMPLETED
+[1]Kusida      |13:24:15 | 12-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Kusida      |13:24:20 | 12-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Kusida      |13:24:24 | 12-10-2026| manga ch3 (2550001): page 2/11 (18%) 4s
+[1]Kusida      |13:24:29 | 12-10-2026| manga ch3 (2550001): page 3/11 (27%) 9s
+[1]Kusida      |13:24:33 | 12-10-2026| manga ch3 (2550001): page 4/11 (36%) 13s
+[1]Kusida      |13:24:38 | 12-10-2026| manga ch3 (2550001): page 5/11 (45%) 18s
+[1]Kusida      |13:24:42 | 12-10-2026| manga ch3 (2550001): page 6/11 (54%) 22s
+[1]Kusida      |13:24:47 | 12-10-2026| manga ch3 (2550001): page 7/11 (63%) 26s
+[1]Kusida      |13:24:51 | 12-10-2026| manga ch3 (2550001): page 8/11 (72%) 31s
+[1]Kusida      |13:24:55 | 12-10-2026| manga ch3 (2550001): page 9/11 (81%) 36s
+[1]Kusida      |13:25:00 | 12-10-2026| manga ch3 (2550001): page 10/11 (90%) 40s
+[1]Kusida      |13:25:04 | 12-10-2026| manga ch3 (2550001): page 11/11 (99%) 44s
+[1]Kusida      |13:25:09 | 12-10-2026| manga ch3 (2550001): COMPLETED
 --> [1]Kusida menjalankan: Get Gift
-[1]Kusida      |09:17:16 | 11-10-2026| gift ERROR: gifts http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |13:25:13 | 12-10-2026| gift: 3/3 belum diterima
+[1]Kusida      |13:25:13 | 12-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Kusida      |13:25:16 | 12-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Kusida      |13:25:19 | 12-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
 --> [1]Kusida menjalankan: Setup Profile
-[1]Kusida      |09:17:16 | 11-10-2026| profile ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |13:25:22 | 12-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Kusida      |13:25:23 | 12-10-2026| profile: OK bio="https://x.com/kusidanatania" fav=kagura awarded=true +10pt
 --> [1]Kusida menjalankan: Bind Wallet
-[1]Kusida      |09:17:16 | 11-10-2026| wallet ERROR: member-settings http 503: {"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"}
+[1]Kusida      |13:25:23 | 12-10-2026| wallet: derivasi dari privateKeySolana -> GYSQzFh9ELoTxmiJBB61MGaF2L1KGihv2aMvUxEDcXwL (cek cocok dengan wallet kamu!)
+[1]Kusida      |13:25:24 | 12-10-2026| wallet: /api/wallet OK (solana)
+[1]Kusida      |13:25:25 | 12-10-2026| wallet: /api/sol-address OK
 
 == RINGKASAN ==
-- Kusida: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 3/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/0 completed | gift 0/0 diterima | profile - | wallet -
+- Kusida: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+10pt) | watch 1/1 completed | musik 3 trek ~660.3552s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
