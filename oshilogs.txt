@@ -12,51 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kusida =====
-[1]Kusida      |10:44:21 | 29-10-2026| login OK @kusidanatania | score=2300 rank=3495
-[1]Kusida      |10:44:21 | 29-10-2026| serverTime=2026-10-29T10:44:21.000Z local=2026-10-29T10:44:21.494Z
+[1]Kusida      |10:44:32 | 30-10-2026| login OK @kusidanatania | score=2400 rank=3343
+[1]Kusida      |10:44:32 | 30-10-2026| serverTime=2026-10-30T10:44:32.000Z local=2026-10-30T10:44:32.987Z
 --> [1]Kusida menjalankan: Claim Daily
-[1]Kusida      |10:44:22 | 29-10-2026| daily: OK +10 poin score=2310
---> [1]Kusida menjalankan: Auto All Tasks (9 pending)
-[1]Kusida      |10:44:24 | 29-10-2026| [1/9] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756223740194538
-[1]Kusida      |10:44:24 | 29-10-2026| delay 10s...
-[1]Kusida      |10:44:36 | 29-10-2026| [2/9] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756054303525090
-[1]Kusida      |10:44:36 | 29-10-2026| delay 10s...
-[1]Kusida      |10:44:47 | 29-10-2026| [3/9] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756388871619917
-[1]Kusida      |10:44:47 | 29-10-2026| delay 10s...
-[1]Kusida      |10:44:58 | 29-10-2026| [4/9] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756419861486834
-[1]Kusida      |10:44:58 | 29-10-2026| delay 10s...
-[1]Kusida      |10:45:10 | 29-10-2026| [5/9] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756514200032455
-[1]Kusida      |10:45:10 | 29-10-2026| delay 10s...
-[1]Kusida      |10:45:22 | 29-10-2026| [6/9] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756559326516852
-[1]Kusida      |10:45:22 | 29-10-2026| delay 10s...
-[1]Kusida      |10:45:33 | 29-10-2026| [7/9] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756301872860837
-[1]Kusida      |10:45:33 | 29-10-2026| delay 10s...
-[1]Kusida      |10:45:45 | 29-10-2026| [8/9] 8545d68c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/kusidanatania/status/2115756416655305494
-[1]Kusida      |10:45:45 | 29-10-2026| delay 10s...
-[1]Kusida      |10:45:56 | 29-10-2026| [9/9] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Kusida      |10:45:56 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kusida      |10:45:58 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/kusidanatania/status/2115756559610036281
+[1]Kusida      |10:44:34 | 30-10-2026| daily: OK +10 poin score=2410
+--> [1]Kusida menjalankan: Auto All Tasks (6 pending)
+[1]Kusida      |10:44:37 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/kusidanatania/status/2116118785885275363
+[1]Kusida      |10:44:37 | 30-10-2026| delay 10s...
+[1]Kusida      |10:44:49 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/kusidanatania/status/2116118707160679773
+[1]Kusida      |10:44:49 | 30-10-2026| delay 10s...
+[1]Kusida      |10:45:02 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/kusidanatania/status/2116118766177965813
+[1]Kusida      |10:45:02 | 30-10-2026| delay 10s...
+[1]Kusida      |10:45:14 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/kusidanatania/status/2116118934603025735
+[1]Kusida      |10:45:14 | 30-10-2026| delay 10s...
+[1]Kusida      |10:45:26 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/kusidanatania/status/2116118770578707469
+[1]Kusida      |10:45:26 | 30-10-2026| delay 10s...
+[1]Kusida      |10:45:38 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Kusida      |10:45:38 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kusida      |10:45:39 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/kusidanatania/status/2116118728692479292
 --> [1]Kusida menjalankan: Watch Anime
-[1]Kusida      |10:45:58 | 29-10-2026| watch: semua video sudah completed
+[1]Kusida      |10:45:40 | 30-10-2026| watch: semua video sudah completed
 --> [1]Kusida menjalankan: Read Article
-[1]Kusida      |10:46:00 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Kusida      |10:46:00 | 29-10-2026| mint eligibility: {"userId":"2011503780723134464","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kusidanatania","status":"submitted","revision":"854368cf-d5d2-437c-a748-2294879c
-[1]Kusida      |10:46:00 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Kusida      |10:45:42 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Kusida      |10:45:43 | 30-10-2026| mint eligibility: {"userId":"2011503780723134464","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kusidanatania","status":"submitted","revision":"854368cf-d5d2-437c-a748-2294879c
+[1]Kusida      |10:45:43 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Kusida menjalankan: Quiz Anime
 --> [1]Kusida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kusida      |10:46:03 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Kusida      |10:46:03 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Kusida      |10:46:03 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kusida      |10:46:03 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kusida      |10:45:46 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Kusida      |10:45:46 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Kusida      |10:45:46 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kusida      |10:45:46 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kusida menjalankan: Claim Missions
-[1]Kusida      |10:46:03 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Kusida      |10:46:03 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Kusida      |10:46:03 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Kusida      |10:45:47 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Kusida      |10:45:47 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Kusida      |10:45:47 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kusida menjalankan: Check Eligibility
 
 --- eligibility [1]Kusida ---
-  @kusidanatania | score=2300 rank=3495
-  tasks    [######--------------] 4/13
+  @kusidanatania | score=2400 rank=3343
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -67,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kusida menjalankan: Read Manga
-[1]Kusida      |10:46:07 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Kusida      |10:45:51 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Kusida menjalankan: Get Gift
-[1]Kusida      |10:46:07 | 29-10-2026| gift: 0/5 belum diterima
+[1]Kusida      |10:45:51 | 30-10-2026| gift: 1/6 belum diterima
+[1]Kusida      |10:45:53 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Kusida menjalankan: Setup Profile
-[1]Kusida      |10:46:08 | 29-10-2026| profile: bio="https://x.com/kusidanatania" fav=kagura rewardAt=1791811522
-[1]Kusida      |10:46:08 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Kusida      |10:45:55 | 30-10-2026| profile: bio="https://x.com/kusidanatania" fav=kagura rewardAt=1791811522
+[1]Kusida      |10:45:55 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Kusida menjalankan: Bind Wallet
-[1]Kusida      |10:46:08 | 29-10-2026| wallet: sudah terikat GYSQzFh9EL... (solana)
+[1]Kusida      |10:45:56 | 30-10-2026| wallet: sudah terikat GYSQzFh9EL... (solana)
 
 == RINGKASAN ==
-- Kusida: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Kusida: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
