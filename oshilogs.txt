@@ -12,35 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Kusida =====
-[1]Kusida      |09:12:10 | 13-11-2026| login OK @kusidanatania | score=3100 rank=2514
-[1]Kusida      |09:12:10 | 13-11-2026| serverTime=2026-11-13T09:12:10.000Z local=2026-11-13T09:12:10.730Z
+[1]Kusida      |08:42:04 | 14-11-2026| login OK @kusidanatania | score=3120 rank=2475
+[1]Kusida      |08:42:04 | 14-11-2026| serverTime=2026-11-14T08:42:04.000Z local=2026-11-14T08:42:04.395Z
 --> [1]Kusida menjalankan: Claim Daily
-[1]Kusida      |09:12:12 | 13-11-2026| daily: OK +10 poin score=3110
---> [1]Kusida menjalankan: Auto All Tasks (1 pending)
-[1]Kusida      |09:12:14 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212105520571029 | proof=https://x.com/kusidanatania/status/2121168898896186481
-[1]Kusida      |09:12:14 | 13-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Kusida      |09:12:15 | 13-11-2026| [1/1] 46cdb22f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"46cdb22f-506b-44fe-9523-edfbb065e670","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121055205710295 | proof=https://x.com/kusidanatania/status/2121168973726702458
+[1]Kusida      |08:42:06 | 14-11-2026| daily: OK +10 poin score=3130
+--> [1]Kusida menjalankan: Auto All Tasks (2 pending)
+[1]Kusida      |08:42:08 | 14-11-2026| [1/2] f5a65410 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5a65410-0a75-466c-843d-dfc30d2f2471","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212149627987236 | proof=https://x.com/kusidanatania/status/2121523693113748007
+[1]Kusida      |08:42:08 | 14-11-2026| delay 10s...
+[1]Kusida      |08:42:22 | 14-11-2026| [2/2] 2402ea04 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5a65410-0a75-466c-843d-dfc30d2f2471","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212149627987236 | proof=https://x.com/kusidanatania/status/2121523636204380480
+[1]Kusida      |08:42:22 | 14-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Kusida      |08:42:24 | 14-11-2026| [1/1] f5a65410 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f5a65410-0a75-466c-843d-dfc30d2f2471","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121496279872365 | proof=https://x.com/kusidanatania/status/2121523645246145908
 --> [1]Kusida menjalankan: Watch Anime
-[1]Kusida      |09:12:16 | 13-11-2026| watch: semua video sudah completed
+[1]Kusida      |08:42:24 | 14-11-2026| watch: semua video sudah completed
 --> [1]Kusida menjalankan: Read Article
-[1]Kusida      |09:12:17 | 13-11-2026| news: 34/34 artikel selesai dibaca
-[1]Kusida      |09:12:18 | 13-11-2026| mint eligibility: {"userId":"2011503780723134464","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kusidanatania","status":"submitted","revision":"854368cf-d5d2-437c-a748-2294879c
-[1]Kusida      |09:12:18 | 13-11-2026| news: semua artikel sudah dibaca
+[1]Kusida      |08:42:26 | 14-11-2026| news: 34/34 artikel selesai dibaca
+[1]Kusida      |08:42:27 | 14-11-2026| mint eligibility: {"userId":"2011503780723134464","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@kusidanatania","status":"submitted","revision":"854368cf-d5d2-437c-a748-2294879c
+[1]Kusida      |08:42:27 | 14-11-2026| news: semua artikel sudah dibaca
 --> [1]Kusida menjalankan: Quiz Anime
 --> [1]Kusida menjalankan: Music Missions (realtime, bisa lama!)
-[1]Kusida      |09:12:20 | 13-11-2026| music: kedua misi sudah tercapai, stop
-[1]Kusida      |09:12:20 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Kusida      |09:12:20 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kusida      |09:12:20 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kusida      |08:42:30 | 14-11-2026| music: kedua misi sudah tercapai, stop
+[1]Kusida      |08:42:31 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Kusida      |08:42:31 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kusida      |08:42:31 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kusida menjalankan: Claim Missions
-[1]Kusida      |09:12:21 | 13-11-2026| mission music-listens-10: sudah diklaim
-[1]Kusida      |09:12:21 | 13-11-2026| mission music-minutes-30: sudah diklaim
-[1]Kusida      |09:12:21 | 13-11-2026| mission anime-completed-3: sudah diklaim
+[1]Kusida      |08:42:31 | 14-11-2026| mission music-listens-10: sudah diklaim
+[1]Kusida      |08:42:31 | 14-11-2026| mission music-minutes-30: sudah diklaim
+[1]Kusida      |08:42:31 | 14-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Kusida menjalankan: Check Eligibility
 
 --- eligibility [1]Kusida ---
-  @kusidanatania | score=3100 rank=2514
-  tasks    [#############-------] 2/3
+  @kusidanatania | score=3120 rank=2475
+  tasks    [#######-------------] 1/3
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Kusida menjalankan: Read Manga
-[1]Kusida      |09:12:24 | 13-11-2026| manga: 0/13 chapter belum completed
+[1]Kusida      |08:42:35 | 14-11-2026| manga: 0/13 chapter belum completed
 --> [1]Kusida menjalankan: Get Gift
-[1]Kusida      |09:12:26 | 13-11-2026| gift: 3/12 belum diterima
-[1]Kusida      |09:12:27 | 13-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kusida      |09:12:30 | 13-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Kusida      |09:12:32 | 13-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kusida      |08:42:38 | 14-11-2026| gift: 3/12 belum diterima
+[1]Kusida      |08:42:39 | 14-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kusida      |08:42:42 | 14-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Kusida      |08:42:45 | 14-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Kusida menjalankan: Setup Profile
-[1]Kusida      |09:12:35 | 13-11-2026| profile: bio="https://x.com/kusidanatania" fav=kagura rewardAt=1791811522
-[1]Kusida      |09:12:35 | 13-11-2026| profile: bonus sudah diklaim, skip
+[1]Kusida      |08:42:48 | 14-11-2026| profile: bio="https://x.com/kusidanatania" fav=kagura rewardAt=1791811522
+[1]Kusida      |08:42:48 | 14-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Kusida menjalankan: Bind Wallet
-[1]Kusida      |09:12:35 | 13-11-2026| wallet: sudah terikat GYSQzFh9EL... (solana)
+[1]Kusida      |08:42:49 | 14-11-2026| wallet: sudah terikat GYSQzFh9EL... (solana)
 
 == RINGKASAN ==
-- Kusida: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Kusida: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
